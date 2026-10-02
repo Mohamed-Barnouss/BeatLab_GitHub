@@ -1,0 +1,15 @@
+wp-config.php
+wp-config-local.php
+.env
+.env.*
+*.sql
+*.sql.gz
+*.zip
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
+*.log
+wp-content/cache/
+wp-content/upgrade/
+wp-content/uploads/cache/
